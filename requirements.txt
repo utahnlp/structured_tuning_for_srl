@@ -4,4 +4,4 @@ transformers==3.4.0
 torch==1.6.0
 numpy==1.18.5
 ujson==1.35
-nltk==3.5
+nltk==3.6.6
